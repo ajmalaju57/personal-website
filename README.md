@@ -2,4 +2,4 @@
 
 
 
-[Ajmal.Vp](https://ajmalvp.tk)
+[Ajmal.Vp](https://ajmalaju57.github.io/personal-website/)
