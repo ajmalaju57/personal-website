@@ -5,7 +5,7 @@ window.addEventListener("load", function(){
     setTimeout(function(){
         document.querySelector(".preloader").style.display="none";
 
-    },1000)
+    },500)
 })
 
 //portfolio item filter
